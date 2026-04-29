@@ -1,6 +1,5 @@
-# OnlySwapX
+# OnlySwapX ⚡
 
-# SkillSwap 🎓⚡
 
 > **Enseña lo que sabes. Aprende lo que necesitas. Sin gastar un sol.**
 
