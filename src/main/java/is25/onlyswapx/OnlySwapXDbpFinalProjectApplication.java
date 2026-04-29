@@ -1,13 +1,13 @@
-package is25.skillswap;
+package is25.onlyswapx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SkillSwapDbpFinalProjectApplication {
+public class OnlySwapXDbpFinalProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SkillSwapDbpFinalProjectApplication.class, args);
+        SpringApplication.run(OnlySwapXDbpFinalProjectApplication.class, args);
     }
 
 }

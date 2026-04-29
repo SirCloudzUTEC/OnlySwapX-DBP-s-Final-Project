@@ -1,10 +1,10 @@
-package is25.skillswap;
+package is25.onlyswapx;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SkillSwapDbpFinalProjectApplicationTests {
+class OnlySwapXDbpFinalProjectApplicationTests {
 
     @Test
     void contextLoads() {
