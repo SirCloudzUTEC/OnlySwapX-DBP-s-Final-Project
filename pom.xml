@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>is25</groupId>
-    <artifactId>SkillSwap</artifactId>
+    <artifactId>OnlySwapX</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SkillSwap-DBP-Final Project</name>
     <description>SkillSwap-DBP-Final Project</description>
@@ -56,6 +56,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webmvc-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
         </dependency>
     </dependencies>
 
